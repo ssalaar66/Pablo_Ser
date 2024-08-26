@@ -8,8 +8,8 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName |⇗⇚ͥ⇚ͭ⇚⃝ᷦ✬͞𝞠͢͞𝞓͢͞𝞑ᷟ͢͞𝙇ͤ͢͞𝞗 ͢͞𝙎𝞢͢͞𝞒⃝✬⇛ⷡ⇛ⷪ⇛ⷮ⇖|
-    footer: process.env.Footer |𝞠𝞓𝞑𝙇𝞗 𝙎𝞢𝞒|
+    botname: process.env.BotName |☆𝞠𝞓𝞑𝙇𝞗 𝙎𝞢𝞒☆|
+    footer: process.env.Footer |⇚ͥ⇚ͭ⇚⃝ᷦ✬͞𝞠͢͞𝞓͢͞𝞑ᷟ͢͞𝙇ͤ͢͞𝞗 ͢͞𝙎𝞢͢͞𝞒⃝✬⇛ⷡ⇛ⷪ⇛ⷮ⇖|
     prefa: process.env.Prefix |˜”°•✩•°”˜|
     themeemoji: process.env.ThemeEmoji |🗿| 
 
