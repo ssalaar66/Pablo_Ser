@@ -11,7 +11,7 @@ module.exports = {
     botname: process.env.BotName |☆𝞠𝞓𝞑𝙇𝞗 𝙎𝞢𝞒☆|
     footer: process.env.Footer |⇚ͥ⇚ͭ⇚⃝ᷦ✬͞𝞠͢͞𝞓͢͞𝞑ᷟ͢͞𝙇ͤ͢͞𝞗 ͢͞𝙎𝞢͢͞𝞒⃝✬⇛ⷡ⇛ⷪ⇛ⷮ⇖|
     prefa: process.env.Prefix |˜”°•✩•°”˜|
-    themeemoji: process.env.ThemeEmoji |🗿| 
+    themeemoji: process.env.ThemeEmoji |☠︎| 
 
     /**
      * owner details and parameters
@@ -23,7 +23,7 @@ module.exports = {
     /**
      * other details and parameters
      */
-    author: process.env.Author | അᤌ‌ັᰍമ◕ ൨ᰍꫂꫧັꫧ പᤌ‌ັഷ◕ ൡ̅ꫂൻ സൈലൻറັ ആᨨ᭄͓ᰍ᭄ᤌ‌ັᤌ‌⫰◕|
+    author: process.env.Author ||
     packname: process.env.PackName |𝙿𝙰𝙱𝙻𝙾 𝚂𝙸𝚁|
     socialLink: process.env.Web || "https://github.com/PikaBotz",
     groupLink: process.env.GcLink |https://chat.whatsapp.com/H5n6arFI9y76cgzYBzgikk|
@@ -61,7 +61,7 @@ module.exports = {
         nsfw: 'This group is not *NSFW* enabled.',
         banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
     },
-    Port: process.env.Port || "8080",
+    Port: process.env.Port |8080| 
 
     /**
      * external APIs
